@@ -1,0 +1,23 @@
+explicaciones:
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables:
+Es un nombre simbolico que en programacion se le da a valores numericos, boleanos o de texto para identificarlos y poderlos procesar mas facilmente
+
+
+ * Strings:
+ Es una secuencia de caracteres usado para representar el texto.
+
+
+ * Funciones (argumentos, `return`)
+En programación, una función es una sección de un programa que calcula un valor de manera independiente al resto del programa y luego devuelve un resultado. 
+return indica la salida de la funcion que puede llevar consigo un dato para devolver.
+
+
+ * Declaraciones `if`
+La sentencia condicional if se usa para tomar decisiones, es decir una expresión que de como resultado True o False, y ejecutar o no códigos siguiente siempre y cuando el resultado sea verdadero.
+
+
+ * Valores booleanos (`true`, `false`)
+En informatica es un dato logico cuyo valor representa verdadero o falso.
