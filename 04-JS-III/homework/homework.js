@@ -237,6 +237,7 @@ function mesesDelAño(array) {
 
 /*
 = array.find(element
+  
 */
   for(let i=0; i < canti; i++) {
     if (array[i] === "Enero") {
