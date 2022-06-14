@@ -1,0 +1,42 @@
+body {
+    height: 100%;
+    background: url(img/Arroyo_la_Caniada.jpg) #334dbf;
+    background-position: center;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+img{
+    width: 250px;
+    height: 200px;
+}
+
+#thirdDiv{
+    height: 400px;
+    width: 500px;
+    background-color: yellow;
+    padding: 50px;
+    /* border: 10px yellow; */
+    border-width: 10px;
+    border-style: dotted;
+}
+
+.thirdDiv{ 
+    background-color: blueviolet;
+    padding: 50px;
+    border-style: solid; 
+    border-width: 10px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: rgb(76, 0, 255); 
+    background-color: aquamarine; 
+}

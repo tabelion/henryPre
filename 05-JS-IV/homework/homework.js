@@ -146,11 +146,24 @@ function sumarLikesDeUsuario (usuario) {
   // Suma todos los likes de todos los objetos "post"
   // Devuelve la suma
   // Tu código:
+/*
+  var usuario = {
+    var posts: ['gino','agost','mica','mati'],
+  }
+
+  var gino','agost','mica','mati = {
+    var likes: 1,
+  }
+
+  
+
+*/
   let canti = usuario.posts.length;
   let suma = 0;
 
-  for (let i=0; i < canti; i++){
-     suma += usuario.posts[i].likes;
+  for (i=0; i<canti; i++){
+    suma = post.likes;
+
   }
 
   return suma;
@@ -168,10 +181,18 @@ function agregarMetodoCalculoDescuento (producto) {
   // producto.porcentajeDeDescuento -> 0.2 (o simplemente ".2")
   // producto.calcularPrecioDescuento() -> 20 - (20 * 0.2)
   // Tu código:
-  producto.calcularPrecioDescuento = function() {
-    return this.precio - (this.precio * this.porcentajeDeDescuento);
-  };
-
+  /*precio: 5,
+    porcentajeDeDescuento: 0.5,
+    precioConDescuento\' method', function() {
+    expect(agregarMetodoCalculoDescuento(storeItem).calcularPrecioDescuento()
+  */
+  var producto = {
+    calcularPrecioDescuento: function() {
+      var descuento = this.precio * producto.porcentajeDeDescuento;   
+      var precioConDescuento = this.precio - descuento;
+      return precioConDescuento;
+    }
+  }
   return producto;
 }
 
