@@ -188,6 +188,8 @@ Abre una nueva ventana en el navegador y completa [homework.html](https://github
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
         Hacé click acá para dejar tu feedback sobre esta clase.
+        La clase me parecio muy interesante, en este pre Henry yo lo tengo al final pero este curso figura que se dicto al principio. 
+        Lo importante que aprendi muchicimo ahora a practicar para afiansar los conceptos. muchas gracias a Henry y al profe que explico muy bien- 
       </a>
     </td>
   </tr>
